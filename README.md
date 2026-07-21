@@ -184,9 +184,9 @@ Download My Resume
 
 <h2>Contact</h2>
 
-<p>Email: youremail@gmail.com</p>
+<p>Email: hs26510123@my.sliit.lk</p>
 
-<p>Phone: +94 XX XXX XXXX</p>
+<p>Phone: +94 741903033</p>
 
 </section>
 
