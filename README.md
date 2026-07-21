@@ -72,7 +72,7 @@ a{
 
 <h2>About Me</h2>
 
-<img src="https://via.placeholder.com/180" alt="passport size photo.jpeg">
+<img src="" alt="My Photo">
 
 <p>
 Hello! My name is Senithi Ekanayake. I am currently studying
