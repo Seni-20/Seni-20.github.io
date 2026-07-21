@@ -72,7 +72,7 @@ a{
 
 <h2>About Me</h2>
 
-<img src="https://via.placeholder.com/180" alt=passport size photo.jpeg>
+<img src="https://via.placeholder.com/180" alt="passport size photo.jpeg">
 
 <p>
 Hello! My name is Senithi Ekanayake. I am currently studying
@@ -173,7 +173,7 @@ and information technology.
 <h2>Resume</h2>
 
 <p>
-<a href="resume.pdf" target="_blank">
+<a href="HS26510123_CV.pdf" target="_blank">
 Download My Resume
 </a>
 </p>
