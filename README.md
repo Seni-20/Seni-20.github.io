@@ -72,7 +72,7 @@ a{
 
 <h2>About Me</h2>
 
-<img src="https://via.placeholder.com/180" alt="My Photo">
+<img src="https://via.placeholder.com/180" alt=passport size photo.jpeg>
 
 <p>
 Hello! My name is Senithi Ekanayake. I am currently studying
@@ -90,8 +90,8 @@ and information technology.
 
 <ul>
 <li>BSc (Hons) Biotechnology - SLIIT (Present)</li>
-<li>G.C.E. Advanced Level</li>
-<li>G.C.E. Ordinary Level</li>
+<li>G.C.E. Advanced Level- 3S passes</li>
+<li>G.C.E. Ordinary Level- 9A passes</li>
 </ul>
 
 </section>
