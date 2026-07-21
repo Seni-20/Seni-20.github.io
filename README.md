@@ -173,7 +173,7 @@ and information technology.
 <h2>Resume</h2>
 
 <p>
-<a href="" target="_blank">
+<a href="HS26510123_CV.pdf" target="_blank">
 Download My Resume
 </a>
 </p>
